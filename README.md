@@ -3,22 +3,9 @@
 Lab deliverables for the course *Deep Learning and Signal Processing*, part of the
 Master MVA (Mathématiques, Vision, Apprentissage), 2026-2027.
 
-Authors: **Pol Tibau Rubau** and **Pablo Borrego**.
-
 ## About the course
 
-The course explores what deep learning can bring to signal processing through industrial
-use cases such as radar emitter identification, signal detection for cognitive radio,
-speaker recognition, restoration of degraded audio signals and predictive maintenance.
-For each use case, "classical" signal processing pipelines are implemented in lab sessions
-and then revisited with a learning-based approach, after introducing the operational
-context and modelling the physics of the problem.
-
-The theory covers signal processing tools (time-frequency and time-scale representations,
-filtering) and machine learning (supervised and unsupervised learning, classification and
-clustering algorithms, optimization and gradient descent, deep learning fundamentals and
-the main neural network architectures), around the question *"what makes deep learning
-deep?"*.
+Lab work for a course on deep learning applied to signal processing. Each lab compares a classical pipeline with a learning-based approach on an industrial use case (radar emitter identification, cognitive radio signal detection, speaker recognition, audio restoration, predictive maintenance). Theory covers time-frequency representations, filtering, classical machine learning and deep learning architectures.
 
 ## Labs
 
