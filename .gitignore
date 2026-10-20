@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Course data (not redistributed) ---
+*.npz
+
+# --- Editors / OS ---
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
